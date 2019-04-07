@@ -46,4 +46,4 @@ The final key feature of the simulator is a spline based road creation tool that
 
 GPS waypoints are computed along the generated lanes for guiding the simulator's auto pilot feature in addition to providing simulated GPS data for use in external ROS controller nodes.
 
-![](images/waypoints.PNG?raw=true)
+![](images/way-points.PNG?raw=true)
