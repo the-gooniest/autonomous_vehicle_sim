@@ -7,10 +7,11 @@ Based on assets from the [Udacity Self Driving Car Sim](https://github.com/udaci
 This Unity3D vehicle simulator was built by the Texas A&M AutoDrive Simulation Team for the 2017-2018 SAE AutoDrive competition to more safely develop vehicle control software while reducing the need to schedule additional field testing sessions.
 
 ### Simulation Team Members
-* Steven Leal - project lead and developer
-* Juan Vasquez - developer
-* Brandon Gann - Field testing callaborator
-* Key Kim - Field testing callaborator
+
+    * Steven Leal - project lead and developer
+    * Juan Vasquez - developer
+    * Brandon Gann - Field testing callaborator
+    * Key Kim - Field testing callaborator
 
 ## Key Features
 
