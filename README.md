@@ -18,7 +18,7 @@ This Unity3D vehicle simulator was built by the Texas A&M AutoDrive Simulation T
 
 ### ROS Integration
 
-The most important feature of the simulator is its ROS integration. Connecting the simulator to ROS allows a network of control nodes to be executed on their native platform while being tested in a safe and convenient virtual environment. To facilitate this integration, the simulator connects to a ROS master node on the network and streams data from a variety of sensors to other subscribed nodes. These ROS compute nodes can then use this published sensor information to make decisions and ultimately publish messages back to the simulator to control the virtual vehicle.
+The most important feature of the simulator is its ROS integration. Connecting the simulator to ROS allows a network of control nodes to be executed on their native platform while being tested in a safe and convenient virtual environment. To facilitate this integration, the simulator connects to a ROS master node on the network and streams data from a variety of sensors to other subscribed nodes. These ROS compute nodes can then use this published sensor information to make decisions and ultimately publish messages back to the simulator to control the virtual vehicle. Below is an example of the simulator publishing front camera information to a lane detection ROS node. The lane detection node can also send live rendered outputs through ROS back to the simulator for monitoring.
 
 ![](images/lane-detection.PNG?raw=true)
 
