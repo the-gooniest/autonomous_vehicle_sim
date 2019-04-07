@@ -36,7 +36,7 @@ In the main menu, additional simulator parameters can be adjusted, including:
 
 The level of customization a simulator provides particularly shines when prototyping sensor configurations. Tasks such as choosing where to mount cameras around the vehicle or testing those cameras with fish eye lens would normally take hours to days to customize in reality but only take minutes to prototype in the simulation.
 
-![](images/options.PNG?raw=true)
+![](images/fish-eye-camera.PNG?raw=true)
 
 ### Road Builder Gizmo
 
