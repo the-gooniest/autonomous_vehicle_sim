@@ -7,11 +7,10 @@ Based on assets from the [Udacity Self Driving Car Sim](https://github.com/udaci
 This Unity3D vehicle simulator was built by the Texas A&M AutoDrive Simulation Team for the 2017-2018 SAE AutoDrive competition to more safely develop vehicle control software while reducing the need to schedule additional field testing sessions.
 
 ### Simulation Team Members
-
-    * Steven Leal - project lead and developer
-    * Juan Vasquez - developer
-    * Brandon Gann - Field testing callaborator
-    * Key Kim - Field testing callaborator
+* Steven Leal - project lead and developer
+* Juan Vasquez - developer
+* Brandon Gann - Field testing callaborator
+* Key Kim - Field testing callaborator
 
 ## Key Features
 
@@ -23,11 +22,11 @@ The most important feature of the simulator is its ROS integration. Connecting t
 
 The simulator itself contains a variety of useful features highlighted by its array of virtual sensors. These include configurable camera outputs, IMU data, and internal vehicle state information such as throttle and steering data.
 
-In the main menu, additional simulator parameters can be adjusted, including
-    * Simulation Speed
-    * Varying degrees of auto pilot
-    * The designated driving lane
-    * Publish rate of output messages
+In the main menu, additional simulator parameters can be adjusted, including:
+* Simulation Speed
+* Varying degrees of auto pilot
+* The designated driving lane
+* Publish rate of output messages
 
 The level of customization of a simulator provides particularly shines when prototyping sensor configurations. Tasks such as choosing where to mount cameras around the vehicle or testing those cameras with fish eye lens would normally take hours to days to customize in reality but only take minutes to prototype in the simulation.
 
