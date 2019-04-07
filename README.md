@@ -28,7 +28,7 @@ In the main menu, additional simulator parameters can be adjusted, including:
 * The designated driving lane
 * Publish rate of output messages
 
-The level of customization of a simulator provides particularly shines when prototyping sensor configurations. Tasks such as choosing where to mount cameras around the vehicle or testing those cameras with fish eye lens would normally take hours to days to customize in reality but only take minutes to prototype in the simulation.
+The level of customization a simulator provides particularly shines when prototyping sensor configurations. Tasks such as choosing where to mount cameras around the vehicle or testing those cameras with fish eye lens would normally take hours to days to customize in reality but only take minutes to prototype in the simulation.
 
 ### Road Builder Gizmo
 
